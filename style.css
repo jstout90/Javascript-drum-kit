@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    height: 100vh;
+    background-image: linear-gradient(#16BFFD, #CB3066);
+    text-align:center;
+    align-content: center;
+    }
+
+.instructions {
+    padding: 50px;
+    text-align: center;
+    display: block;
+    }
+
+.button {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+    margin: 5px;
+    font-size: 17px;
+    background-color: lightblue;
+}
+
+#btn1 {
+  background: #00ddff
+}
+#btn2 {
+  background: #d36060;
+}
+#btn3 {
+  background: #c060d3;
+}
+#btn4 {
+  background: #fff757;
+}
+#btn5 {
+  background: #606bd3;
+}
+#btn6 {
+  background: #eb9234;
+}
+#btn7 {
+  background: #b436eb;
+}
+#btn8 {
+  background: #ff00ee;
+}
+#btn9 {
+  background: #67eb2f;
+}
